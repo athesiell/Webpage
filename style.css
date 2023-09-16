@@ -81,6 +81,7 @@ ul {
     margin-top: 20px;
     font-size: 16px;
     font-weight: bold;
+    outline: none;
 }
 
 .header-1 img {
@@ -91,4 +92,27 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.boxes h2 {
+    text-align: center;
+    margin: 50px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info img {
+    width: 200px;
+    height: 150px;
+}
+
+.info {
+    text-align: center;
 }
