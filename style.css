@@ -169,3 +169,13 @@ ul {
 .another-button:hover {
     background-color: lightblue;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 50px 0;
+}
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
+}
